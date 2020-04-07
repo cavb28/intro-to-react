@@ -1,0 +1,27 @@
+{
+  "name": "intro-to-react",
+  "version": "1.0.0",
+  "description": "Intro To React",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavb28/intro-to-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavb28/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/cavb28/intro-to-react#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "prettier": "^2.0.4"
+  }
+}
